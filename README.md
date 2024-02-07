@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thisisvishalpal
-- 👀 I’m interested in learning and building new things which help mankind
+- 👀 I’m interested in learning and building new things
 - 🌱 I’m currently learning Firebase
 - 💞️ I’m looking to collaborate on interesting projects which challenge my capabilities
 - 📫 How to reach me ... 
